@@ -7,7 +7,7 @@
 
 using namespace std;
 
-/* ===== DU LIEU CHUNG ===== */
+/* ===== DU LIEU CHUNG ====*/
 const int MAX = 12; // Dung chi so tu 1 -> 11
 
 string tenTinh[] = {
